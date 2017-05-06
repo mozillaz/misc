@@ -1,0 +1,85 @@
+Tərcümədə istifadə edilən terminlər:
+(Qarşısı boş qalanların tərcüməsi hələ tam deyil)
+(Yeni proyektlərdə əgər söz burada yoxdursa əvvəlki tərcümələrə baxmaq lazımdır: mozilla.locamotion.org/az/firefox/translate/ adresində aşağı sol küncdə söz axtarışı var. Exact Match seçildikdə cümlə axtarışı olur.)
+* - Dəyişmiş söz
+
+# - Yeni sözlər
+(Əlifba sırasına görə)
+A B C D E F G H I G K L M N O P Q R S T U V W X Y Z
+
+Add-ons - Əlavələr
+#Advanced - Təkmilləşmiş
+#Anchor - Lövbər
+App - Tətbiq
+Application - Tətbiqetəm
+Backup - Yedək
+Backup(verb) - Yedəklə(mək)
+Bar - Sətir (Title bar - Başlıq sətri)
+Block - Əngəl (Əngəllə)
+Bookmark - Əlfəcin
+Bookmark(verb) - Əlfəcinlə(mək)
+Browser - Səyyah
+Browsing - Səyahət
+Close - Qapat
+Connect - Bağlan
+*Cookie - Çərəz
+Copy - Köçür
+*Customize - Fərdiləşdir
+*Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah. Önseçilən.
+Description - Açıqlama
+Desktop - Masaüstü
+#Developer - Tərtibatçı
+Debugger - Sazlayıcı (Tənzimləyici)
+Debugging - Sazlama (Tənzimləmə)
+Debug - Sazla (Tənzimlə)
+Download - Endir(mək)
+Donate - İanə
+Edit - Düzəlt
+Encryption - Şifrələmə
+Encrypt - Şifrələ(mək)
+Extension - Uzantı
+FAQ - ÇSS
+*Feed - Axın
+Feedback - Əks əlaqə
+Frame - Çərçivə
+Help - Yardım
+Instead - onun yerinə
+Link - Keçid
+Load - Yüklə
+Loading - Yüklənir
+Logging = Qeydiyyat, Qeyd aparmaq
+History - Tarixçə
+Notifications - Bildirişlər
+Options - Seçimlər
+# Phishing - E-tələ
+# Pin - Sabitlə (Pinned - Sabitlənmiş)
+# Unpin - Sabitdən çıxart
+Password - Parol
+Passphrase - Şifrə
+Plugin - Qoşma
+Pop-up - Qəfil-pəncərə (bəzi yerlərdə cümlə içində deyilsə gözəl görünüş üçün Qəfil-Pəncərə)
+Preferences - Nizamlamalar
+Properties - Xassələr
+Private - Məxfi (Private data - Şəxsi məlumat)
+Privacy - Məxfilik
+
+Sandboxing - ???
+
+Save - Saxla(maq)
+Set - Qur
+Settings - Tənzimləmələr
+Site - Sayt
+Software - Proqram
+Synchronize - Sinxronlaşdır
+Sync - Sinxronlaşdır
+*Tab - Vərəq
+#Thread - axın
+Toolbar - Panel (Əlfəcinlər Paneli)
+Tools - Alətlər
+Update - Yenilə
+#Upgrade - Yüksəlt
+Upload - Yükləmək
+View - Görünüş
+is up to date - güncəldir
+Web - Web (mümkündürsə internet işlədilsin)
+Website - web sayt (mümkündürsə təkcə sayt kimi işlədilsin)
