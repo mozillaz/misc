@@ -8,8 +8,8 @@ Tərcümədə istifadə edilən terminlər:
 A B C D E F G H I G K L M N O P Q R S T U V W X Y Z
 
 Add-ons - Əlavələr
-#Advanced - Təkmilləşmiş
-#Anchor - Lövbər
+Advanced - Təkmilləşmiş
+Anchor - Lövbər
 App - Tətbiq
 Application - Tətbiqetəm
 Backup - Yedək
@@ -28,7 +28,7 @@ Copy - Köçür
 *Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah. Önseçilən.
 Description - Açıqlama
 Desktop - Masaüstü
-#Developer - Tərtibatçı
+Developer - Tərtibatçı
 Debugger - Sazlayıcı (Tənzimləyici)
 Debugging - Sazlama (Tənzimləmə)
 Debug - Sazla (Tənzimlə)
@@ -49,11 +49,12 @@ Load - Yüklə
 Loading - Yüklənir
 Logging = Qeydiyyat, Qeyd aparmaq
 History - Tarixçə
+Network Monitor - Şəbəkə İzləyicisi
 Notifications - Bildirişlər
 Options - Seçimlər
-# Phishing - E-tələ
-# Pin - Sabitlə (Pinned - Sabitlənmiş)
-# Unpin - Sabitdən çıxart
+Phishing - E-tələ
+Pin - Sabitlə (Pinned - Sabitlənmiş)
+Unpin - Sabitdən çıxart
 Password - Parol
 Passphrase - Şifrə
 Plugin - Qoşma
@@ -66,6 +67,7 @@ Privacy - Məxfilik
 Sandboxing - ???
 
 Save - Saxla(maq)
+*Screenshot - Ekran Görüntüsü
 Set - Qur
 Settings - Tənzimləmələr
 Site - Sayt
@@ -73,11 +75,11 @@ Software - Proqram
 Synchronize - Sinxronlaşdır
 Sync - Sinxronlaşdır
 *Tab - Vərəq
-#Thread - axın
+Thread - axın
 Toolbar - Panel (Əlfəcinlər Paneli)
 Tools - Alətlər
 Update - Yenilə
-#Upgrade - Yüksəlt
+Upgrade - Yüksəlt
 Upload - Yükləmək
 View - Görünüş
 is up to date - güncəldir
