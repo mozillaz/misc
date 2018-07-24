@@ -42,17 +42,19 @@ FAQ - ÇSS
 *Feed - Axın
 Feedback - Əks əlaqə
 Frame - Çərçivə
+Harmful - Zərərli
 Help - Yardım
+History - Tarixçə
 Instead - onun yerinə
 Link - Keçid
 Load - Yüklə
 Loading - Yüklənir
 Logging = Qeydiyyat, Qeyd aparmaq
-History - Tarixçə
+Malware - Zərərverici proqram
 Network Monitor - Şəbəkə İzləyicisi
 Notifications - Bildirişlər
 Options - Seçimlər
-Phishing - E-tələ
+? Phishing - E-tələ
 Pin - Sabitlə (Pinned - Sabitlənmiş)
 Unpin - Sabitdən çıxart
 Password - Parol
