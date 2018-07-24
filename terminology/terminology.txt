@@ -1,9 +1,10 @@
 Tərcümədə istifadə edilən terminlər:
 (Qarşısı boş qalanların tərcüməsi hələ tam deyil)
 (Yeni proyektlərdə əgər söz burada yoxdursa əvvəlki tərcümələrə baxmaq lazımdır: mozilla.locamotion.org/az/firefox/translate/ adresində aşağı sol küncdə söz axtarışı var. Exact Match seçildikdə cümlə axtarışı olur.)
-* - Dəyişmiş söz
-
+* - Dəyişmiş sözlər
+? - Tərcüməsinə qərar verilməmiş sözlər
 # - Yeni sözlər
+
 (Əlifba sırasına görə)
 A B C D E F G H I G K L M N O P Q R S T U V W X Y Z
 
@@ -78,6 +79,7 @@ Synchronize - Sinxronlaşdır
 Sync - Sinxronlaşdır
 *Tab - Vərəq
 Thread - axın
+?* Token - Jeton, Token
 Toolbar - Panel (Əlfəcinlər Paneli)
 Tools - Alətlər
 Update - Yenilə
