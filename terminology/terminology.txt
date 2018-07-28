@@ -55,7 +55,7 @@ Malware - Zərərverici proqram
 Network Monitor - Şəbəkə İzləyicisi
 Notifications - Bildirişlər
 Options - Seçimlər
-? Phishing - E-tələ
+* Phishing - Fişinq
 Pin - Sabitlə (Pinned - Sabitlənmiş)
 Unpin - Sabitdən çıxart
 Password - Parol
