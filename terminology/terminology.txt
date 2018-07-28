@@ -89,3 +89,7 @@ View - Görünüş
 is up to date - güncəldir
 Web - Web (mümkündürsə internet işlədilsin)
 Website - web sayt (mümkündürsə təkcə sayt kimi işlədilsin)
+
+
+Extras:
+Responsive Design Mode - Uyğunlaşan Dizayn Rejimi
