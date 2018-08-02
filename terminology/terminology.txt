@@ -25,6 +25,7 @@ Close - Qapat
 Connect - Bağlan
 *Cookie - Çərəz
 Copy - Köçür
+Create - Yaratmaq
 *Customize - Fərdiləşdir
 *Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah. Önseçilən.
 Description - Açıqlama
@@ -43,6 +44,7 @@ FAQ - ÇSS
 *Feed - Axın
 Feedback - Əks əlaqə
 Frame - Çərçivə
+Generate - Törətmək
 Harmful - Zərərli
 Help - Yardım
 History - Tarixçə
