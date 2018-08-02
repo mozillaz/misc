@@ -44,7 +44,7 @@ FAQ - ÇSS
 *Feed - Axın
 Feedback - Əks əlaqə
 Frame - Çərçivə
-Generate - Törətmək
+* Generate - Törətmək
 Harmful - Zərərli
 Help - Yardım
 History - Tarixçə
