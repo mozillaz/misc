@@ -77,6 +77,8 @@ Set - Qur
 Settings - Tənzimləmələr
 Site - Sayt
 Software - Proqram
+* State - Vəziyyət
+* Status - Durum
 Synchronize - Sinxronlaşdır
 Sync - Sinxronlaşdır
 *Tab - Vərəq
