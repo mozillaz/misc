@@ -23,7 +23,7 @@ Browser - Səyyah
 Browsing - Səyahət
 Close - Qapat
 Connect - Bağlan
-*Cookie - Çərəz
+* Cookie - Çərəz
 Copy - Köçür
 Create - Yaratmaq
 *Customize - Fərdiləşdir
@@ -41,7 +41,7 @@ Encryption - Şifrələmə
 Encrypt - Şifrələ(mək)
 Extension - Uzantı
 FAQ - ÇSS
-*Feed - Axın
+* Feed - Axın
 Feedback - Əks əlaqə
 Frame - Çərçivə
 * Generate - Törətmək
@@ -68,11 +68,9 @@ Preferences - Nizamlamalar
 Properties - Xassələr
 Private - Məxfi (Private data - Şəxsi məlumat)
 Privacy - Məxfilik
-
-Sandboxing - ???
-
+* Sandboxing - Təcridetmə (run in a sandbox: təhlükəsiz təcrid mühitində başlat)
 Save - Saxla(maq)
-*Screenshot - Ekran Görüntüsü
+* Screenshot - Ekran Görüntüsü
 Set - Qur
 Settings - Tənzimləmələr
 Site - Sayt
@@ -81,7 +79,7 @@ Software - Proqram
 * Status - Durum
 Synchronize - Sinxronlaşdır
 Sync - Sinxronlaşdır
-*Tab - Vərəq
+* Tab - Vərəq
 Thread - axın
 ?* Token - Jeton, Token
 Toolbar - Panel (Əlfəcinlər Paneli)
@@ -93,6 +91,7 @@ View - Görünüş
 is up to date - güncəldir
 Web - Web (mümkündürsə internet işlədilsin)
 Website - web sayt (mümkündürsə təkcə sayt kimi işlədilsin)
+Widget - Vidcet
 
 
 Extras:
